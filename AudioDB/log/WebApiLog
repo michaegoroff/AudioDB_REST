@@ -1,0 +1,148 @@
+2024-01-21 19:49:38 INFO Starting WebApiApplication using Java 20.0.1 with PID 1928 (C:\Users\Olga\Desktop\вуз\вуз лабы\JAZ\proj\AudioDB\AudioDBWebApi\target\classes started by Olga in C:\Users\Olga\Desktop\вуз\вуз лабы\JAZ\proj\AudioDB)
+2024-01-21 19:49:38 INFO No active profile set, falling back to 1 default profile: "default"
+2024-01-21 19:49:38 INFO Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-01-21 19:49:38 INFO For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-01-21 19:49:39 INFO Multiple Spring Data modules found, entering strict repository configuration mode
+2024-01-21 19:49:39 INFO Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-01-21 19:49:39 INFO Finished Spring Data repository scanning in 31 ms. Found 4 JPA repository interfaces.
+2024-01-21 19:49:39 INFO Multiple Spring Data modules found, entering strict repository configuration mode
+2024-01-21 19:49:39 INFO Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2024-01-21 19:49:39 INFO Finished Spring Data repository scanning in 8 ms. Found 0 JDBC repository interfaces.
+2024-01-21 19:49:39 INFO Tomcat initialized with port 8383 (http)
+2024-01-21 19:49:39 INFO Initializing ProtocolHandler ["http-nio-8383"]
+2024-01-21 19:49:39 INFO Starting service [Tomcat]
+2024-01-21 19:49:39 INFO Starting Servlet engine: [Apache Tomcat/10.1.17]
+2024-01-21 19:49:40 INFO Initializing Spring embedded WebApplicationContext
+2024-01-21 19:49:40 INFO Root WebApplicationContext: initialization completed in 1141 ms
+2024-01-21 19:49:40 INFO HikariPool-1 - Starting...
+2024-01-21 19:49:40 INFO HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@ad852f3
+2024-01-21 19:49:40 INFO HikariPool-1 - Start completed.
+2024-01-21 19:49:40 INFO H2 console available at '/h2-console'. Database available at 'jdbc:mysql://localhost:7777/AudioDB'
+2024-01-21 19:49:40 INFO HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-01-21 19:49:40 INFO HHH000412: Hibernate ORM core version 6.4.1.Final
+2024-01-21 19:49:40 INFO HHH000026: Second-level cache disabled
+2024-01-21 19:49:40 INFO No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-01-21 19:49:41 INFO HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-01-21 19:49:41 INFO Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-01-21 19:49:41 WARN spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-01-21 19:49:42 WARN Unable to start LiveReload server
+2024-01-21 19:49:42 INFO Starting ProtocolHandler ["http-nio-8383"]
+2024-01-21 19:49:42 INFO Tomcat started on port 8383 (http) with context path ''
+2024-01-21 19:49:42 INFO Started WebApiApplication in 4.022 seconds (process running for 4.79)
+2024-01-21 19:50:14 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-01-21 19:50:14 INFO Initializing Servlet 'dispatcherServlet'
+2024-01-21 19:50:14 INFO Completed initialization in 1 ms
+2024-01-21 19:51:02 INFO Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-01-21 19:51:02 INFO HikariPool-1 - Shutdown initiated...
+2024-01-21 19:51:02 INFO HikariPool-1 - Shutdown completed.
+2024-01-21 19:53:28 INFO Starting WebApiApplication using Java 20.0.1 with PID 11680 (C:\Users\Olga\Desktop\вуз\вуз лабы\JAZ\proj\AudioDB\AudioDBWebApi\target\classes started by Olga in C:\Users\Olga\Desktop\вуз\вуз лабы\JAZ\proj\AudioDB)
+2024-01-21 19:53:28 INFO No active profile set, falling back to 1 default profile: "default"
+2024-01-21 19:53:28 INFO Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-01-21 19:53:28 INFO For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-01-21 19:53:28 INFO Multiple Spring Data modules found, entering strict repository configuration mode
+2024-01-21 19:53:28 INFO Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-01-21 19:53:28 INFO Finished Spring Data repository scanning in 30 ms. Found 4 JPA repository interfaces.
+2024-01-21 19:53:28 INFO Multiple Spring Data modules found, entering strict repository configuration mode
+2024-01-21 19:53:28 INFO Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2024-01-21 19:53:28 INFO Finished Spring Data repository scanning in 8 ms. Found 0 JDBC repository interfaces.
+2024-01-21 19:53:29 INFO Tomcat initialized with port 8383 (http)
+2024-01-21 19:53:29 INFO Initializing ProtocolHandler ["http-nio-8383"]
+2024-01-21 19:53:29 INFO Starting service [Tomcat]
+2024-01-21 19:53:29 INFO Starting Servlet engine: [Apache Tomcat/10.1.17]
+2024-01-21 19:53:29 INFO Initializing Spring embedded WebApplicationContext
+2024-01-21 19:53:29 INFO Root WebApplicationContext: initialization completed in 1133 ms
+2024-01-21 19:53:29 INFO HikariPool-1 - Starting...
+2024-01-21 19:53:29 INFO HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@70f8084a
+2024-01-21 19:53:29 INFO HikariPool-1 - Start completed.
+2024-01-21 19:53:29 INFO H2 console available at '/h2-console'. Database available at 'jdbc:mysql://localhost:7777/AudioDB'
+2024-01-21 19:53:29 INFO HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-01-21 19:53:29 INFO HHH000412: Hibernate ORM core version 6.4.1.Final
+2024-01-21 19:53:29 INFO HHH000026: Second-level cache disabled
+2024-01-21 19:53:30 INFO No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-01-21 19:53:30 INFO HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-01-21 19:53:31 INFO Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-01-21 19:53:31 WARN spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-01-21 19:53:31 WARN Unable to start LiveReload server
+2024-01-21 19:53:31 INFO Starting ProtocolHandler ["http-nio-8383"]
+2024-01-21 19:53:31 INFO Tomcat started on port 8383 (http) with context path ''
+2024-01-21 19:53:31 INFO Started WebApiApplication in 3.937 seconds (process running for 4.683)
+2024-01-21 19:53:42 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-01-21 19:53:42 INFO Initializing Servlet 'dispatcherServlet'
+2024-01-21 19:53:42 INFO Completed initialization in 1 ms
+2024-01-21 19:54:12 INFO Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-01-21 19:54:12 INFO HikariPool-1 - Shutdown initiated...
+2024-01-21 19:54:12 INFO HikariPool-1 - Shutdown completed.
+2024-01-25 09:38:36 INFO Starting WebApiApplication using Java 20.0.1 with PID 17828 (C:\Users\Olga\Desktop\вуз\вуз лабы\JAZ\proj\AudioDB\AudioDBWebApi\target\classes started by Olga in C:\Users\Olga\Desktop\вуз\вуз лабы\JAZ\proj\AudioDB)
+2024-01-25 09:38:36 INFO No active profile set, falling back to 1 default profile: "default"
+2024-01-25 09:38:36 INFO Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-01-25 09:38:36 INFO For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-01-25 09:38:37 INFO Multiple Spring Data modules found, entering strict repository configuration mode
+2024-01-25 09:38:37 INFO Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-01-25 09:38:37 INFO Finished Spring Data repository scanning in 34 ms. Found 4 JPA repository interfaces.
+2024-01-25 09:38:37 INFO Multiple Spring Data modules found, entering strict repository configuration mode
+2024-01-25 09:38:37 INFO Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2024-01-25 09:38:37 INFO Finished Spring Data repository scanning in 8 ms. Found 0 JDBC repository interfaces.
+2024-01-25 09:38:37 INFO Tomcat initialized with port 8383 (http)
+2024-01-25 09:38:37 INFO Initializing ProtocolHandler ["http-nio-8383"]
+2024-01-25 09:38:37 INFO Starting service [Tomcat]
+2024-01-25 09:38:37 INFO Starting Servlet engine: [Apache Tomcat/10.1.17]
+2024-01-25 09:38:37 INFO Initializing Spring embedded WebApplicationContext
+2024-01-25 09:38:37 INFO Root WebApplicationContext: initialization completed in 1147 ms
+2024-01-25 09:38:37 INFO HikariPool-1 - Starting...
+2024-01-25 09:38:38 INFO HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3f470bb8
+2024-01-25 09:38:38 INFO HikariPool-1 - Start completed.
+2024-01-25 09:38:38 INFO H2 console available at '/h2-console'. Database available at 'jdbc:mysql://localhost:7777/AudioDB'
+2024-01-25 09:38:38 INFO HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-01-25 09:38:38 INFO HHH000412: Hibernate ORM core version 6.4.1.Final
+2024-01-25 09:38:38 INFO HHH000026: Second-level cache disabled
+2024-01-25 09:38:38 INFO No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-01-25 09:38:39 INFO HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-01-25 09:38:39 INFO Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-01-25 09:38:39 WARN spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-01-25 09:38:40 WARN Unable to start LiveReload server
+2024-01-25 09:38:40 INFO Starting ProtocolHandler ["http-nio-8383"]
+2024-01-25 09:38:40 INFO Tomcat started on port 8383 (http) with context path ''
+2024-01-25 09:38:40 INFO Started WebApiApplication in 3.996 seconds (process running for 4.731)
+2024-01-25 09:39:23 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-01-25 09:39:23 INFO Initializing Servlet 'dispatcherServlet'
+2024-01-25 09:39:23 INFO Completed initialization in 1 ms
+2024-01-25 09:43:37 INFO Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-01-25 09:43:37 INFO HikariPool-1 - Shutdown initiated...
+2024-01-25 09:43:37 INFO HikariPool-1 - Shutdown completed.
+2024-01-25 09:44:12 INFO Starting WebApiApplication using Java 20.0.1 with PID 8416 (C:\Users\Olga\Desktop\вуз\вуз лабы\JAZ\proj\AudioDB\AudioDBWebApi\target\classes started by Olga in C:\Users\Olga\Desktop\вуз\вуз лабы\JAZ\proj\AudioDB)
+2024-01-25 09:44:12 INFO No active profile set, falling back to 1 default profile: "default"
+2024-01-25 09:44:12 INFO Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-01-25 09:44:12 INFO For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-01-25 09:44:13 INFO Multiple Spring Data modules found, entering strict repository configuration mode
+2024-01-25 09:44:13 INFO Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-01-25 09:44:13 INFO Finished Spring Data repository scanning in 35 ms. Found 4 JPA repository interfaces.
+2024-01-25 09:44:13 INFO Multiple Spring Data modules found, entering strict repository configuration mode
+2024-01-25 09:44:13 INFO Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2024-01-25 09:44:13 INFO Finished Spring Data repository scanning in 8 ms. Found 0 JDBC repository interfaces.
+2024-01-25 09:44:14 INFO Tomcat initialized with port 8383 (http)
+2024-01-25 09:44:14 INFO Initializing ProtocolHandler ["http-nio-8383"]
+2024-01-25 09:44:14 INFO Starting service [Tomcat]
+2024-01-25 09:44:14 INFO Starting Servlet engine: [Apache Tomcat/10.1.17]
+2024-01-25 09:44:14 INFO Initializing Spring embedded WebApplicationContext
+2024-01-25 09:44:14 INFO Root WebApplicationContext: initialization completed in 1206 ms
+2024-01-25 09:44:14 INFO HikariPool-1 - Starting...
+2024-01-25 09:44:14 INFO HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@702557ef
+2024-01-25 09:44:14 INFO HikariPool-1 - Start completed.
+2024-01-25 09:44:14 INFO H2 console available at '/h2-console'. Database available at 'jdbc:mysql://localhost:7777/AudioDB'
+2024-01-25 09:44:14 INFO HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-01-25 09:44:14 INFO HHH000412: Hibernate ORM core version 6.4.1.Final
+2024-01-25 09:44:14 INFO HHH000026: Second-level cache disabled
+2024-01-25 09:44:14 INFO No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-01-25 09:44:15 INFO HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-01-25 09:44:15 INFO Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-01-25 09:44:16 WARN spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-01-25 09:44:16 WARN Unable to start LiveReload server
+2024-01-25 09:44:16 INFO Starting ProtocolHandler ["http-nio-8383"]
+2024-01-25 09:44:16 INFO Tomcat started on port 8383 (http) with context path ''
+2024-01-25 09:44:16 INFO Started WebApiApplication in 4.17 seconds (process running for 4.977)
+2024-01-25 09:44:47 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-01-25 09:44:47 INFO Initializing Servlet 'dispatcherServlet'
+2024-01-25 09:44:47 INFO Completed initialization in 1 ms
+2024-01-25 09:48:28 INFO Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-01-25 09:48:28 INFO HikariPool-1 - Shutdown initiated...
+2024-01-25 09:48:29 INFO HikariPool-1 - Shutdown completed.

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Configuration xmlns="http://logging.apache.org/log4j/2.0/config">
+    <Appenders>
+        <File name="logFile" fileName="./log/UpdaterLog" append="true">
+            <PatternLayout>
+                <Pattern>%d{yyyy-MM-dd HH:mm:ss} %p %m%n</Pattern>
+            </PatternLayout>
+        </File>
+    </Appenders>
+    <Loggers>
+        <Root level="info">
+            <AppenderRef ref="logFile"/>
+        </Root>
+        <Logger name="infoLogger" level="info">
+            <AppenderRef ref="logFile"/>
+        </Logger>
+    </Loggers>
+</Configuration>
